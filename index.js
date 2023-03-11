@@ -1,4 +1,4 @@
-const baseUrl = `https://steam-api-dot-cs-platform-306304.et.r.appspot.com`;
+const baseUrl = `https://steam-api-dot-cs-platform-306304.et.r.appspot.com/`;
 const search = document.getElementById("store_nav_search_term");
 
 // loading screen
