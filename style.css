@@ -269,6 +269,7 @@ main {
 
 .game-area .game-list .game-wrapper {
   width: 270px;
+  height: 190px;
   border: 1px solid black;
   display: flex;
   flex-wrap: wrap;
@@ -306,6 +307,7 @@ main {
   );
   box-shadow: 0 0 3px rgb(0 0 0 / 40%);
   margin: 0px;
+  height: 56px;
   min-height: 23px;
   background-size: cover;
   cursor: pointer;
